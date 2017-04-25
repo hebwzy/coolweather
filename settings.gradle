@@ -1,0 +1,1 @@
+include ':app', ':webviewprintdemo', ':opencamerademo', ':photoselects', ':dierhangdaimademo2'

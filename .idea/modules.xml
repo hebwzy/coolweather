@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Wzy_Demos21.iml" filepath="$PROJECT_DIR$/Wzy_Demos21.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dierhangdaimademo2/dierhangdaimademo2.iml" filepath="$PROJECT_DIR$/dierhangdaimademo2/dierhangdaimademo2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/opencamerademo/opencamerademo.iml" filepath="$PROJECT_DIR$/opencamerademo/opencamerademo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/photoselects/photoselects.iml" filepath="$PROJECT_DIR$/photoselects/photoselects.iml" />
+      <module fileurl="file://$PROJECT_DIR$/webviewprintdemo/webviewprintdemo.iml" filepath="$PROJECT_DIR$/webviewprintdemo/webviewprintdemo.iml" />
+    </modules>
+  </component>
+</project>
